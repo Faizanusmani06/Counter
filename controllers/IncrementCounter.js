@@ -11,7 +11,7 @@ exports.IncrementCounter = async(req,res) => {
             _id : "65f1ab5ec594f68eb984b801",
           },
           {
-             counter:  data[0].counter+1
+             counter:  data[0].counter+0.5
           }
         )
     
