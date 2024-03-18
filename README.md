@@ -21,7 +21,7 @@ git clone https://github.com/Faizanusmani06/Counter.git
 2. Navigate to the project directory:
 
 ```
-cd Counter
+cd Website-Counter
 ```
 
 3. Install dependencies:
